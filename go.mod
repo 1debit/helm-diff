@@ -8,6 +8,7 @@ require (
 	github.com/Masterminds/sprig v2.16.0+incompatible
 	github.com/aokoli/goutils v1.0.1
 	github.com/aryann/difflib v0.0.0-20170226194404-a1a4dd44eb11
+	github.com/databus23/helm-diff v0.0.0-20190319101403-f0cbdb299a3b
 	github.com/ghodss/yaml v0.0.0-20150909031657-73d445a93680
 	github.com/gobwas/glob v0.2.3
 	github.com/golang/protobuf v0.0.0-20171021043952-1643683e1b54
